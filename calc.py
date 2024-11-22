@@ -6,7 +6,7 @@ class AutoCalcNotepad:
         self.root.title("Auto Calc")
 
         # Modes for operations
-        self.modes = ["Sum", "Subtract", "Multiply", "Divide"]
+        self.modes = ["Add", "Subtract", "Multiply", "Divide"]
         self.current_mode = tk.StringVar(value=self.modes[0])  # Default mode: Sum
 
         # Buttons for modes
