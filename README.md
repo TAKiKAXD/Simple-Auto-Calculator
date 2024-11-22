@@ -33,13 +33,13 @@ AutoCalc Notepad is a simple, interactive notepad application built with Python 
    ```
 3. Run the application:
    ```bash
-   python autocac_notepad.py
+   python calc.py
    ```
 
 ## Usage
 
 1. Enter numbers and text freely in the text area.
-2. Click on the operation mode buttons (`Sum`, `Subtract`, `Multiply`, `Divide`) to switch between calculations.
+2. Click on the operation mode buttons (`Add`, `Subtract`, `Multiply`, `Divide`) to switch between calculations.
 3. The result will automatically update in real-time, displayed at the bottom of the app.
 
 ### Example
